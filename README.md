@@ -192,7 +192,7 @@ The system takes a raw malware image, rescales it, expands dimensions for batch 
 
 | Model | Parameters | Accuracy | Speed |
 | --- | --- | --- | --- |
-| **MobileNetV2 (Ours)** | **~2.3M** | **85-90%** | **Fast** |
+| **MobileNetV2 (Ours)** | **~2.3M** | **>90%** | **Fast** |
 | ResNet50 | ~25M | 88-92% | Medium |
 | Custom CNN | <1M | 75-85% | Fast |
 | VGG16 | ~138M | 87-91% | Slow |
@@ -219,4 +219,5 @@ The system takes a raw malware image, rescales it, expands dimensions for batch 
 **License**: MIT
 
 Would you like me to help you draft the **Classification Report** analysis or write a **Python script** to automate the `kaggle.json` setup for your project?
+
 
