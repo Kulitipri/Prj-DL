@@ -1,0 +1,40 @@
+=== OVERALL ===
+Accuracy=0.9561128526645768
+Precision_macro=0.8874063248487802
+Recall_macro=0.9029287186051892
+F1_macro=0.8897503880200901
+F1_weighted=0.9510963866013917
+
+=== CLASSIFICATION REPORT ===
+                precision    recall  f1-score   support
+
+     Adialer.C     1.0000    1.0000    1.0000        13
+     Agent.FYI     1.0000    1.0000    1.0000        13
+     Allaple.A     1.0000    0.9764    0.9880       296
+     Allaple.L     1.0000    1.0000    1.0000       160
+ Alueron.gen!J     1.0000    1.0000    1.0000        21
+     Autorun.K     0.0000    0.0000    0.0000        12
+       C2LOP.P     0.7222    0.8125    0.7647        16
+   C2LOP.gen!g     1.0000    0.7000    0.8235        20
+Dialplatform.B     1.0000    1.0000    1.0000        19
+     Dontovo.A     1.0000    1.0000    1.0000        17
+      Fakerean     1.0000    0.9744    0.9870        39
+ Instantaccess     1.0000    1.0000    1.0000        44
+    Lolyda.AA1     1.0000    0.9545    0.9767        22
+    Lolyda.AA2     1.0000    1.0000    1.0000        19
+    Lolyda.AA3     1.0000    1.0000    1.0000        13
+     Lolyda.AT     0.9444    1.0000    0.9714        17
+   Malex.gen!J     0.8824    1.0000    0.9375        15
+ Obfuscator.AD     1.0000    1.0000    1.0000        15
+      Rbot!gen     0.9412    0.9412    0.9412        17
+    Skintrim.N     1.0000    1.0000    1.0000         8
+ Swizzor.gen!E     0.4444    0.2857    0.3478        14
+ Swizzor.gen!I     0.4643    0.9286    0.6190        14
+         VB.AT     1.0000    1.0000    1.0000        42
+    Wintrim.BX     0.9167    1.0000    0.9565        11
+       Yuner.A     0.8696    1.0000    0.9302        80
+
+      accuracy                         0.9561       957
+     macro avg     0.8874    0.9029    0.8898       957
+  weighted avg     0.9511    0.9561    0.9511       957
+

@@ -1,0 +1,5 @@
+Threshold (p95 normal val) = 0.0276388825
+
+Normal flagged (FPR) = 5.0676%
+
+Anomaly flagged (TPR) = 60.0%
