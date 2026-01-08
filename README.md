@@ -218,6 +218,6 @@ The system takes a raw malware image, rescales it, expands dimensions for batch 
 
 **License**: MIT
 
-Would you like me to help you draft the **Classification Report** analysis or write a **Python script** to automate the `kaggle.json` setup for your project?
+
 
 
